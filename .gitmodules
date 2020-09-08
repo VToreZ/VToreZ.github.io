@@ -1,0 +1,3 @@
+[submodule "demochat"]
+	path = demochat
+	url = https://github.com/VToreZ/demochat
